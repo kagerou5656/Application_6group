@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Application_6group</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- ↓↓↓通知の文章↓↓↓-->
+    <string name="caution_notification_title">安否確認</string>
+    <string name="caution_notification_text">
+        24時間アプリへのログイン、センサーの反応がありませんでした。\n
+        無事な場合は通知のボタンを押して反応してください。
+    </string>
+    <string name="caution_noti_button_text">無事です</string>
+    <string name="dangerous_notification_title">安否状況不明</string>
+    <string name="dangerous_notification_text">
+        さんの安否状況が48時間確認できませんでした。\n
+        危険な状態かもしれませんので、どなたか安否確認をお願いします。
+    </string>
+    <string name="dangerous_noti_button_text">安否確認に行けます</string>
+</resources>
